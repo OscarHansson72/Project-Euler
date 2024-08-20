@@ -1,0 +1,28 @@
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\bin\Debug\net8.0\SumOfMultiplesOfThreeAndFive.exe
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\bin\Debug\net8.0\SumOfMultiplesOfThreeAndFive.deps.json
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\bin\Debug\net8.0\SumOfMultiplesOfThreeAndFive.runtimeconfig.json
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\bin\Debug\net8.0\SumOfMultiplesOfThreeAndFive.dll
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\bin\Debug\net8.0\SumOfMultiplesOfThreeAndFive.pdb
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.AssemblyInfoInputs.cache
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.AssemblyInfo.cs
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.csproj.CoreCompileInputs.cache
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.dll
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\refint\SumOfMultiplesOfThreeAndFive.dll
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.pdb
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.genruntimeconfig.cache
+C:\Users\wg7201\OneDrive - Sandvik\Desktop\Project Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\ref\SumOfMultiplesOfThreeAndFive.dll
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\bin\Debug\net8.0\SumOfMultiplesOfThreeAndFive.exe
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\bin\Debug\net8.0\SumOfMultiplesOfThreeAndFive.deps.json
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\bin\Debug\net8.0\SumOfMultiplesOfThreeAndFive.runtimeconfig.json
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\bin\Debug\net8.0\SumOfMultiplesOfThreeAndFive.dll
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\bin\Debug\net8.0\SumOfMultiplesOfThreeAndFive.pdb
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.AssemblyInfoInputs.cache
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.AssemblyInfo.cs
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.csproj.CoreCompileInputs.cache
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.dll
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\refint\SumOfMultiplesOfThreeAndFive.dll
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.pdb
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\SumOfMultiplesOfThreeAndFive.genruntimeconfig.cache
+C:\Users\wg7201\Project-Euler\SumOfMultiplesOfThreeAndFive\obj\Debug\net8.0\ref\SumOfMultiplesOfThreeAndFive.dll
