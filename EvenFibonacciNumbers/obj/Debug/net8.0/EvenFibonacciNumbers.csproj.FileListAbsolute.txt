@@ -1,0 +1,15 @@
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\bin\Debug\net8.0\EvenFibonacciNumbers.exe
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\bin\Debug\net8.0\EvenFibonacciNumbers.deps.json
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\bin\Debug\net8.0\EvenFibonacciNumbers.runtimeconfig.json
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\bin\Debug\net8.0\EvenFibonacciNumbers.dll
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\bin\Debug\net8.0\EvenFibonacciNumbers.pdb
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\obj\Debug\net8.0\EvenFibonacciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\obj\Debug\net8.0\EvenFibonacciNumbers.AssemblyInfoInputs.cache
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\obj\Debug\net8.0\EvenFibonacciNumbers.AssemblyInfo.cs
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\obj\Debug\net8.0\EvenFibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\obj\Debug\net8.0\EvenFibonacciNumbers.sourcelink.json
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\obj\Debug\net8.0\EvenFibonacciNumbers.dll
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\obj\Debug\net8.0\refint\EvenFibonacciNumbers.dll
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\obj\Debug\net8.0\EvenFibonacciNumbers.pdb
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\obj\Debug\net8.0\EvenFibonacciNumbers.genruntimeconfig.cache
+C:\Users\wg7201\Project-Euler\EvenFibonacciNumbers\obj\Debug\net8.0\ref\EvenFibonacciNumbers.dll
