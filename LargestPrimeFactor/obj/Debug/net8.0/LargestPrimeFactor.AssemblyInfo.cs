@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LargestPrimeFactor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f21e9b2aca51eae482f2a870bf391b94cf822579")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a98e6b885520ee64a06ba67499d5b3b841695a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LargestPrimeFactor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LargestPrimeFactor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
